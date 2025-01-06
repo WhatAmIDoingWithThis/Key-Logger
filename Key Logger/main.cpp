@@ -3,13 +3,13 @@ Key Logger Program
 - Captures keystrokes and sends the data over localhost
 
 Needed:
-- Capture A-Z, a-z										*
+- Capture A-Z, a-z						*
 - Capture special keys like Shift and Backspace			*
-- Record time of each keypress							*
-- Record active window?									*
-- Transmit to localhost									X - Need to read up a lot more on cpp libraries that can handle this.
-															Found some potential in winhttp.h, but I didn't understand it enough
-															to use it in good conscience
+- Record time of each keypress					*
+- Record active window?						*
+- Transmit to localhost						X 	Need to read up a lot more on cpp libraries that can handle this.
+									Found some potential in winhttp.h, but I didn't understand it enough
+									to use it in good conscience
 */
 
 // Included libraries
